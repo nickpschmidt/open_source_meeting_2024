@@ -1,0 +1,15 @@
+channels:
+  - defaults
+  - conda-forge
+
+dependencies:
+  - python=3.11
+  - ipython
+  - numpy
+  - jupyter
+  - matplotlib
+  - plotly
+  - pandas
+  - pip
+  - scikit-learn
+  - statsmodels
